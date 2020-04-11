@@ -1,2 +1,3 @@
 # Valera-bzz
-Hi everyone! I get started at january 2020
+moving objects uses Tutle
+Simle project uses integers
